@@ -2,11 +2,17 @@
 
 ## Academic Background
 2024 - pres:     Bioinformatician, NHM, London, UK
+
 2016 - 2024:    Postdoctoral Researcher, Earlham Institute, Norwich, UK
+
 2015 - 2016:    Lecturer, University of East Anglia, Norwich, UK
+
 2011 - 2015:    PhD, University of East Anglia, Norwich, UK
+
 2010 - 2011:    MRes Entomology, Imperial College London, UK
+
 2006 - 2009:    BSc (Hons) Zoology, University of Sheffield, UK
+
 
 ## Biography
 Will is a passionate evolutionary entomologist. He studied the behavioural and transcriptomic implications of environmental  adaptation in the Mediterranean fruit fly (Ceratitis capitata) during a PhD supervised by Prof Tracey Chapman (UEA). Will then worked in a teaching role at UEA, during which he built a strong interest in teaching evolutionary biology and biodiversity.
