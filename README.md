@@ -39,4 +39,6 @@ Will is a neurodivergent researcher. He is committed to innovation in the way ST
 
 At EI, Will was Accessibility Champion on the Institutes DEI committee.  In this role, he developed and led a range of activities to move EI forward on its journey towards being more inclusive. These included the instigation of on-the-ground review of physical accessibility in the Institute, as well as the initiation of a network supporting neurodiverse identities at EI.
 
-Will is always happy to support others who are looking to learn more about neurodiversity in STEM and he is happy to receive emails from those who want to ask questions about neurodiverse experiences.
+Will has trained in using [The Equity Compass] (https://yestem.org/wp-content/uploads/2020/10/EQUITY-COMPASS-YESTEM-INSIGHT.pdf) and has also lead short workshops training others how to use this tool to construct socially just STEM learning environments. This tool was created by researchers at UCL, and provides [free training materials] (https://www.futurelearn.com/info/courses/equity-informal-stem-learning-using-the-equity-compass/0/steps/306033)
+
+Will is always happy to support others who are looking to learn more about neurodiversity in STEM and [he is happy to receive emails](mailto:w.nash@uea.ac.uk) from those who want to ask questions about neurodiverse experiences.
