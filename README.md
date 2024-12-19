@@ -37,7 +37,7 @@ IDEA in STEM
 
 Will is a [neurodivergent](https://geniuswithin.org/what-is-neurodiversity) researcher. He is committed to innovation in the way STEM spaces can be made accessible to all underrepresented groups.
 
-At EI, Will was Accessibility Champion on the Institutes DEI committee.  In this role, he developed and led a range of activities to move EI forward on its journey towards being more inclusive. These included the instigation of on-the-ground review of physical accessibility in the Institute, as well as the initiation of a network supporting neurodiverse identities at EI.
+At EI, Will was Accessibility Champion on the Institute IDEA committee.  In this role, he developed and led a range of activities to move EI forward on its journey towards being more inclusive. These included the instigation of on-the-ground review of physical accessibility in the Institute, as well as the initiation of a network supporting neurodiverse identities at EI.
 
 Will has trained in using [The Equity Compass](https://yestem.org/wp-content/uploads/2020/10/EQUITY-COMPASS-YESTEM-INSIGHT.pdf) and has also lead short workshops training others how to use this tool to construct socially just STEM learning environments. This tool was created by researchers at UCL, and provides [free training materials](https://www.futurelearn.com/info/courses/equity-informal-stem-learning-using-the-equity-compass/0/steps/306033).
 
