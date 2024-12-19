@@ -35,7 +35,7 @@ Will has a range of supervisory experience across bioinformatic and ecology base
 ## Areas of Expertise
 IDEA in STEM
 
-Will is a <a href="https://geniuswithin.org/what-is-neurodiversity/> neurodivergent researcher </a> . He is committed to innovation in the way STEM spaces can be made accessible to all underrepresented groups.
+Will is a [neurodivergent](https://geniuswithin.org/what-is-neurodiversity) researcher. He is committed to innovation in the way STEM spaces can be made accessible to all underrepresented groups.
 
 At EI, Will was Accessibility Champion on the Institutes DEI committee.  In this role, he developed and led a range of activities to move EI forward on its journey towards being more inclusive. These included the instigation of on-the-ground review of physical accessibility in the Institute, as well as the initiation of a network supporting neurodiverse identities at EI.
 
