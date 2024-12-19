@@ -28,17 +28,17 @@ From 2021, Will became lead researcher on a range of pioneering genome assembly 
  - The Functional Non-Coding Genome – Will is motivated to understand adaptive evolution in the functional non-coding genome and it’s relation to gene regulation. He has worked with multi ‘omic datasets to explore the foundations of regulatory networks and their rewiring during adaptive processes.
 
 ## Teaching Interests
-As an Honorary Lecturer at UEA, Will teaches Vertebrate Biodiversity (Level 4) and Data Science and Bioinformatics (Level 7).
+As an <a href="https://research-portal.uea.ac.uk/en/persons/will-nash> Honorary Lecturer at The University of East Anglia </a> , Will teaches Vertebrate Biodiversity (Level 4) and Data Science and Bioinformatics (Level 7).
 
 Will has a range of supervisory experience across bioinformatic and ecology based projects at PhD, MRes, and UG. He greatly enjoys working with inquisitive students who are interested in developing computational approaches to ecology and conservation relevant grand challenges.
 
 ## Areas of Expertise
 IDEA in STEM
 
-Will is a neurodivergent researcher. He is committed to innovation in the way STEM spaces can be made accessible to all underrepresented groups.
+Will is a <a href="https://geniuswithin.org/what-is-neurodiversity/> neurodivergent researcher </a> . He is committed to innovation in the way STEM spaces can be made accessible to all underrepresented groups.
 
 At EI, Will was Accessibility Champion on the Institutes DEI committee.  In this role, he developed and led a range of activities to move EI forward on its journey towards being more inclusive. These included the instigation of on-the-ground review of physical accessibility in the Institute, as well as the initiation of a network supporting neurodiverse identities at EI.
 
-Will has trained in using <a href="https://yestem.org/wp-content/uploads/2020/10/EQUITY-COMPASS-YESTEM-INSIGHT.pdf"> The Equity Compass </a> and has also lead short workshops training others how to use this tool to construct socially just STEM learning environments. This tool was created by researchers at UCL, and provides [free training materials] (https://www.futurelearn.com/info/courses/equity-informal-stem-learning-using-the-equity-compass/0/steps/306033)
+Will has trained in using <a href="https://yestem.org/wp-content/uploads/2020/10/EQUITY-COMPASS-YESTEM-INSIGHT.pdf"> The Equity Compass </a> and has also lead short workshops training others how to use this tool to construct socially just STEM learning environments. This tool was created by researchers at UCL, and provides <a href="https://www.futurelearn.com/info/courses/equity-informal-stem-learning-using-the-equity-compass/0/steps/306033> free training materials </a>
 
 Will is always happy to support others who are looking to learn more about neurodiversity in STEM and [he is happy to receive emails](mailto:w.nash@uea.ac.uk) from those who want to ask questions about neurodiverse experiences.
