@@ -15,11 +15,11 @@
 
 
 ## Biography
-Will is a passionate evolutionary entomologist. He studied the behavioural and transcriptomic implications of environmental  adaptation in the Mediterranean fruit fly (Ceratitis capitata) during a PhD supervised by Prof Tracey Chapman (UEA). Will then worked in a teaching role at UEA, during which he built a strong interest in teaching evolutionary biology and biodiversity.
+Will is a passionate evolutionary entomologist. He studied the behavioural and transcriptomic implications of environmental  adaptation in the Mediterranean fruit fly (Ceratitis capitata) during a PhD supervised by [Prof Tracey Chapman](https://www.traceychapmanresearch.com/) (UEA). Will then worked in a teaching role at UEA, during which he built a strong interest in teaching evolutionary biology, biodiversity, and genomics.
 
-He moved to The Earlham Institute, Norwich (EI) in 2016 to work in Dr Wilfried Haerty’s Evolutionary Genomics group. Will worked at EI for 8 years, during which time he developed a wide range of bioinformatic experience and studied a range of genomic questions. Will work advanced approaches to study the functional non-coding genome using comparative approaches, and he continues to develop methods to lift over regulatory annotations from model to non-model species.
+He moved to [The Earlham Institute](https://www.earlham.ac.uk/), Norwich (EI) in 2016 to work in [Dr Wilfried Haerty](https://www.earlham.ac.uk/profile/wilfried-haerty)’s Evolutionary Genomics group. Will worked at EI for 8 years, during which time he developed a wide range of bioinformatic experience and studied a range of genomic questions. Will work advanced approaches to study the functional non-coding genome using comparative approaches, and he continues to develop methods to lift over regulatory annotations from model to non-model species.
 
-From 2021, Will became lead researcher on a range of pioneering genome assembly and population genomics projects focusing on European bee populations. Will has innovated in the design and deployment of sequencing projects in UK bumblebees and discovered novel and cryptic signatures of range expansion within the genomes these populations. Will is currently a Bioinformatician at the NHM London, working (remotely from UEA) with Prof Ian Barnes. Will’s current research focus is using DNA from museum specimens, dating back to 1890, to interpret current population trends in a range of UK Bumblebees.
+From 2021, Will became lead researcher on a range of pioneering genome assembly and population genomics projects focusing on European bee populations. Will has innovated in the design and deployment of sequencing projects in UK bumblebees and discovered novel and cryptic signatures of range expansion within the genomes these populations. Will is currently a Bioinformatician at the [Natural History Museum, London](https://www.nhm.ac.uk/our-science.html), working (remotely from UEA) with [Prof Ian Barnes](https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ian-barnes.html). Will’s current research focus is using DNA from museum specimens, dating back to 1890, to interpret current population trends in a range of UK Bumblebees.
 
 ## Key Research Interests
  - Landscape Genomics – Will aims to use genomic data from insect populations across the UK to understand how these populations interact with selective forces in the environment.
@@ -28,7 +28,7 @@ From 2021, Will became lead researcher on a range of pioneering genome assembly 
  - The Functional Non-Coding Genome – Will is motivated to understand adaptive evolution in the functional non-coding genome and it’s relation to gene regulation. He has worked with multi ‘omic datasets to explore the foundations of regulatory networks and their rewiring during adaptive processes.
 
 ## Teaching Interests
-As an <a href="https://research-portal.uea.ac.uk/en/persons/will-nash> Honorary Lecturer at The University of East Anglia </a> , Will teaches Vertebrate Biodiversity (Level 4) and Data Science and Bioinformatics (Level 7).
+As an [Honorary Lecturer at The University of East Anglia](https://research-portal.uea.ac.uk/en/persons/will-nash), Will teaches Vertebrate Biodiversity (Level 4) and Data Science and Bioinformatics (Level 7).
 
 Will has a range of supervisory experience across bioinformatic and ecology based projects at PhD, MRes, and UG. He greatly enjoys working with inquisitive students who are interested in developing computational approaches to ecology and conservation relevant grand challenges.
 
