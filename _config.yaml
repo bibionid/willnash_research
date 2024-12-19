@@ -3,6 +3,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-logo: /assets/images/will-nash-web.jpeg
+logo: /assets/js/image-rotator.js
 description: Landscape Genomics | Insect Biodiversity | IDEA in STEM
 google_analytics:
