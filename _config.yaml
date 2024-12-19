@@ -4,4 +4,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 logo: /assets/images/will-nash-web.jpeg
-description: Landscape Genomics \n Insect Biodiversity \n IDEA in STEM
+description: Landscape Genomics | Insect Biodiversity | IDEA in STEM
