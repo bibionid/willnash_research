@@ -7,5 +7,8 @@ logo: /assets/images/will-nash-web.jpeg
 description: Landscape Genomics | Insect Biodiversity | IDEA in STEM
 google_analytics:
 
-- title: Resources
-  url: /resources/
+navigation:
+  - title: Home
+    url: /
+  - title: Resources
+    url: /resources/
