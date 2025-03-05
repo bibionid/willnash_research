@@ -1,15 +1,5 @@
 # Dr Will Nash
 
-<a href="/resources/" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    color: white;
-    background-color: #007bff;
-    text-decoration: none;
-    border-radius: 5px;
-">Go to Resources</a>
-
 ## Academic Background
 2024 - pres:     Bioinformatician, NHM, London, UK
 
