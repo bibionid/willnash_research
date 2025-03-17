@@ -1,3 +1,9 @@
+---
+layout: resources
+title: Resources
+permalink: /resources/
+---
+
 # Useful Links
 
 ## UEA Resources for Staff and Students
