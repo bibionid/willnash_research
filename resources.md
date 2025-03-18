@@ -6,11 +6,11 @@ permalink: /resources/
 
 # Neurodiversity Links
 
-## Governmental Support 
+### Governmental Support 
 - [Access To Work](https://www.gov.uk/access-to-work)
 - [Disabled Students Allowance](https://www.gov.uk/disabled-students-allowance-dsa)
 
-## UEA Resources for Staff and Students
+### UEA Resources for Staff and Students
 - [Explore Neurodiversity](https://my.uea.ac.uk/divisions/student-services/learning-enhancement/specific-learning-difficulties/explore-neurodiversity) this page has information on a current programme facilitated by the Learning Enhancement Team to explore neurodiversity and also links to a set of resources curated by that team:  Neurodiversity Celebration Resources (Sway)
 
 ### UEA Resources for Staff
@@ -21,7 +21,7 @@ permalink: /resources/
 HR Business Partnering Services – to provide targeted support and advice for individuals and line managers, including around reasonable adjustments
 - [Employee Wellbeing](https://my.uea.ac.uk/divisions/people-and-culture/organisational-development-services/equality-diversity-inclusion-wellbeing/wellbeing) the hub on MyUEA for all employee wellbeing resources and initiatives, many of which may be useful in terms of neuroinclusion and supporting neurodivergent staff
 
-## UEA Resources for Students
+### UEA Resources for Students
 [Specific Learning Differences](https://my.uea.ac.uk/divisions/student-services/learning-enhancement/specific-learning-difficulties) 
 - [Getting A Diagnosis](https://my.uea.ac.uk/divisions/student-services/learning-enhancement/specific-learning-difficulties/getting-a-diagnosis) 
 - [SpLD screening service](https://my.uea.ac.uk/divisions/student-services/learning-enhancement/specific-learning-difficulties/i-don-t-have-a-diagnosis1)
