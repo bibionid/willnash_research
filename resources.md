@@ -7,7 +7,6 @@ permalink: /resources/
 # Useful Links
 
 ## UEA Resources for Staff and Students
-- Neurodiversity Awareness | LinkedIn Learning (Awaiting Link Update) part of a wider curated equality, diversity and inclusion collection on LinkedIn Learning, with a range of short and long-form awareness resources
 - [Explore Neurodiversity](https://my.uea.ac.uk/divisions/student-services/learning-enhancement/specific-learning-difficulties/explore-neurodiversity) this page has information on a current programme facilitated by the Learning Enhancement Team to explore neurodiversity and also links to a set of resources curated by that team:  Neurodiversity Celebration Resources (Sway)
 
 ### UEA Resources for Staff
