@@ -4,7 +4,11 @@ title: Resources
 permalink: /resources/
 ---
 
-# Useful Links
+# Neurodiversity Links
+
+## Governmental Support 
+- [Access To Work](https://www.gov.uk/access-to-work)
+- [Disabled Students Allowance](https://www.gov.uk/disabled-students-allowance-dsa)
 
 ## UEA Resources for Staff and Students
 - [Explore Neurodiversity](https://my.uea.ac.uk/divisions/student-services/learning-enhancement/specific-learning-difficulties/explore-neurodiversity) this page has information on a current programme facilitated by the Learning Enhancement Team to explore neurodiversity and also links to a set of resources curated by that team:  Neurodiversity Celebration Resources (Sway)
