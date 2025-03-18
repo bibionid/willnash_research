@@ -6,13 +6,11 @@ permalink: /resources/
 
 # Neurodiversity Links
 
-### Governmental Support 
+## Governmental Support 
 - [ACAS Neurodiversity at work](https://www.acas.org.uk/neurodiversity-at-work) A really good set of definitions and actions to support neurodiversity in any kind of workplace
-
-- [Access To Work](https://www.gov.uk/access-to-work)
-- [Disabled Students Allowance](https://www.gov.uk/disabled-students-allowance-dsa)
-
-
+- [Access To Work](https://www.gov.uk/access-to-work) A grant scheme to help those needing accessiblity support to access the workplace
+- [Disabled Students Allowance](https://www.gov.uk/disabled-students-allowance-dsa) The student equivalent of the above
+- [Definition of disability under the Equality Act 2010](https://www.gov.uk/definition-of-disability-under-equality-act-2010) A good starting point to think about workplace rights and potetnial discrimination
 
 ## UEA Specific Resources 
 
