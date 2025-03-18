@@ -24,6 +24,9 @@ permalink: /resources/
 - [Dyslexia](https://www.thedyslexiainitiative.org/some-of-our-favorite-videos)
 - [Autism Spectrum Condition](https://www.autism.org.uk/advice-and-guidance/what-is-autism)
 
+## A great book for learning about Neurodiversity coaching techniques
+- [Neurodiversity Coaching, Doyle and McDowall](https://www.routledge.com/Neurodiversity-Coaching-A-Psychological-Approach-to-Supporting-Neurodivergent-Talent-and-Career-Potential/Doyle-McDowall/p/book/9781032436524?srsltid=AfmBOooci1R7y1_862g94_9a4hvxOXzUdPqczSaOgRqZtt1hG6SvAOCp) I've just finished this - it's awesome, I learnt a lot about my own experience and also a wide range of approaches to neuroinclusive research practise
+
 ## UEA Specific Resources 
 
 ### UEA Resources for Staff and Students
