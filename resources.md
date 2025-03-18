@@ -13,7 +13,16 @@ permalink: /resources/
 - [Definition of disability under the Equality Act 2010](https://www.gov.uk/definition-of-disability-under-equality-act-2010) A good starting point to think about workplace rights and potetnial discrimination
 
 ## Tools for Neuroinclusion in the workplace
-- [5 T Approach](https://blogs.ed.ac.uk/dsn-teaching/2023/05/29/the-5-t-approach/) A really useful framework work for making superviosry relationships more inclusive 
+- [5 T Approach](https://blogs.ed.ac.uk/dsn-teaching/2023/05/29/the-5-t-approach/) A really useful framework work for making superviosry relationships more inclusive
+- [Neurodiversity Week](https://www.neurodiversityweek.com/) Loads of great resources and recorded talks from previous years
+- [Neurodiversity Resource Library](https://ndconnection.co.uk/resources) A huge collection of resources - really good for considering intersectionality
+- [Neuroinclusion at Work](https://www.cipd.org/uk/knowledge/guides/neuroinclusion-work/)
+- [Neuroinclusive Comms Checklist](https://georgiabroome.substack.com/p/introducing-the-neuroinclusive-communications-c87?utm_campaign=post&utm_medium=web)
+
+## Learning about neurotypes 
+- [ADHD](https://adhduk.co.uk/videos/)
+- [Dyslexia](https://www.thedyslexiainitiative.org/some-of-our-favorite-videos)
+- [Autism Spectrum Condition](https://www.autism.org.uk/advice-and-guidance/what-is-autism)
 
 ## UEA Specific Resources 
 
