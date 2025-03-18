@@ -12,6 +12,9 @@ permalink: /resources/
 - [Disabled Students Allowance](https://www.gov.uk/disabled-students-allowance-dsa) The student equivalent of the above
 - [Definition of disability under the Equality Act 2010](https://www.gov.uk/definition-of-disability-under-equality-act-2010) A good starting point to think about workplace rights and potetnial discrimination
 
+## Tools for Neuroinclusion in the workplace
+- [5 T Approach](https://blogs.ed.ac.uk/dsn-teaching/2023/05/29/the-5-t-approach/) A really useful framework work for making superviosry relationships more inclusive 
+
 ## UEA Specific Resources 
 
 ### UEA Resources for Staff and Students
