@@ -35,6 +35,8 @@ HR Business Partnering Services – to provide targeted support and advice for i
 - [1-1 SpLD tuition](https://my.uea.ac.uk/divisions/student-services/learning-enhancement/specific-learning-difficulties/specialist-tuition)
 - [Assistive tech guides and podcast](https://my.uea.ac.uk/divisions/student-services/learning-enhancement/specific-learning-difficulties/specialist-tuition/spld-resources)
 - [External links and resources](https://my.uea.ac.uk/divisions/student-services/learning-enhancement/specific-learning-difficulties/further-information-and-external-links)
+
 [UEA Student Services – Reasonable Adjustments](https://my.uea.ac.uk/divisions/student-services/wellbeing/help-for-students-with-disabilities/reasonable-adjustments)
+
 [PGR Reasonable Adjustments](https://my.uea.ac.uk/divisions/research-and-innovation/postgraduate-research/information-for-supervisors-and-examiners/pgr-reasonable-adjustments)
 
